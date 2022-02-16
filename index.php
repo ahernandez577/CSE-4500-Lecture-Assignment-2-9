@@ -88,10 +88,10 @@
       </div>
       <hr>
       <hr>
-      <div id="interest" class="content-item">
+      <div id="interests" class="content-item">
         <div class="vertical-center">
-          <h2>Interest</h2>
-          <h4><?php echo $json_data['interest']; ?><h4>
+          <h2>Interests</h2>
+          <h4><?php echo $json_data['interests']; ?><h4>
           <p>...</p>
         </div>
       </div>
