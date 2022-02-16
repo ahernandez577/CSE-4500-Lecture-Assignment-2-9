@@ -1,0 +1,22 @@
+{
+  "first-name": "Alex",
+  "last-name": "Hernandez",
+  "address": "5500 University Pkwy, San Bernardino, CA 92407",
+  "phone": "(123)456-7890",
+  "email": "name@mail.com",
+  "introduction": "I am a student at CSUSB and I have quite the impressive resume",
+  "experience":[
+    {
+      "title":"WEB DEVELOPER",
+      "employer":"CSUSB",
+      "period":"March 2018 - Present",
+      "description":"Being a web developer really helped me land a job as the new Spider-Man since I am so good at developing webs"
+    },
+    {
+      "title":"APPLICATION DEVELOPER",
+      "employer":"CSUSB",
+      "period":"March 2018 - 2021",
+      "description":"Created many applications like Facebook, Twitter, and Google to name a small few."
+    }
+  ]
+}
