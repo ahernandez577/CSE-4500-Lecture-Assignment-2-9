@@ -24,7 +24,7 @@
     <div data-bs-offset="0" tabindex="0">
       <div id="about" class="content-item">
         <div class="vertical-center">
-          <h1>Alex Hernandez</h1>
+          <h1>Alex Hernande</h1>
           <div class="subheading">
             5500 University Pkwy, San Bernardino, CA 92407 · (123)456-7890
           </div>
