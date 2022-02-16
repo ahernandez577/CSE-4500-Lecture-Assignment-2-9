@@ -18,5 +18,15 @@
       "period":"March 2018 - 2021",
       "description":"Created many applications like Facebook, Twitter, and Google to name a small few."
     }
+  ],
+  "education":[
+    {
+      "title":"Student",
+      "school":"CSUSB",
+      "period":"March 2018 - Present",
+      "description":"Being a web developer really helped me land a job as the new Spider-Man since I am so good at developing webs"
+    }
   ]
+
+
 }
