@@ -4,6 +4,8 @@
   "address": "5500 University Pkwy, San Bernardino, CA 92407",
   "phone": "(123)456-7890",
   "email": "name@mail.com",
+  "skills": "No Skills",
+  "interest": "No Interest",
   "introduction": "I am a student at CSUSB and I have quite the impressive resume",
   "experience":[
     {
